@@ -1,0 +1,25 @@
+{
+  "name": "browser-bots",
+  "version": "1.0.0",
+  "description": "web browser automation with node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshankarunarathne/browser-bots.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "puppeteer",
+    "automation"
+  ],
+  "author": "Dilshan Karunarathne",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dilshankarunarathne/browser-bots/issues"
+  },
+  "homepage": "https://github.com/dilshankarunarathne/browser-bots#readme"
+}
